@@ -1,0 +1,8 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/russoedu/faviconit-api.git
+	branch = master
+[submodule "client"]
+	path = client
+	url = https://github.com/russoedu/faviconit-client.git
+	branch = master
